@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 Libre Clarendon Fonts
 ======================
 
+... Work in Progres ...
+
+=======
+Libre Clarendon Fonts
+======================
+
+.... Work in progress ...
+
+>>>>>>> FETCH_HEAD
 Libre Clarendon fonts in 20 Styles. 4 Widths (Condensed, Narrow, Normal, Wide) in 5 weigths each (Ligth, Regular, Medium, Bold, Black).
 
 Based in 1874 Fann Street Foundry Specimens.
