@@ -1,28 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Libre Clarendon Fonts
 ======================
 
 ... Work in Progres ...
 
-=======
-=======
->>>>>>> FETCH_HEAD
-Libre Clarendon Fonts
-======================
-
-.... Work in progress ...
-
-<<<<<<< HEAD
->>>>>>> FETCH_HEAD
-=======
->>>>>>> FETCH_HEAD
 Libre Clarendon fonts in 20 Styles. 4 Widths (Condensed, Narrow, Normal, Wide) in 5 weigths each (Ligth, Regular, Medium, Bold, Black).
 
+An integrated and comprehensive Clarendon family in a wide range of weights and widths, that can be used for both Text and Display settings.
+
 Based in 1874 Fann Street Foundry Specimens.
-
-The goal is to generate an integrated and comprehensive Clarendon family in a wide range of weights and widths, that can be used for both Text and Display settings.
-
 
 ## License
 
