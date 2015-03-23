@@ -5,9 +5,7 @@ Libre Clarendon Fonts
 
 Libre Clarendon fonts in 20 Styles. 4 Widths (Condensed, Narrow, Normal, Wide) in 5 weigths each (Ligth, Regular, Medium, Bold, Black).
 
-An integrated and comprehensive Clarendon family in a wide range of weights and widths, that can be used for both Text and Display settings.
-
-Based in 1874 Fann Street Foundry Specimens.
+An integrated and comprehensive Clarendon family in a wide range of weights and widths, that can be used for both Text and Display settings. Loosely based in 1874 Fann Street Foundry Specimens.
 
 ## License
 
