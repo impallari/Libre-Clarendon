@@ -1,15 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Libre Clarendon Fonts
 ======================
 
 ... Work in Progres ...
 
 =======
+=======
+>>>>>>> FETCH_HEAD
 Libre Clarendon Fonts
 ======================
 
 .... Work in progress ...
 
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 Libre Clarendon fonts in 20 Styles. 4 Widths (Condensed, Narrow, Normal, Wide) in 5 weigths each (Ligth, Regular, Medium, Bold, Black).
 
