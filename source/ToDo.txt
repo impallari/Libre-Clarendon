@@ -1,5 +1,16 @@
 ToDo:
 
-BoldCondensed Master:
-- Overshoot 12, todos los otros masters tienen 10
+Lowercase:
+- Overshoot in BoldCondensed Master is 12 units, all other masters is 10 units.
+- Fix /y contrast in the thin masters.
+- Fix the /s in the Bold Wide masters.
+- Review /t tail widths.
+- Review /t and /f crossbar, check /q/f/p/q/t/p. Compare Solutions.
+
+Uppercase:
+- Integrate and Review All
+
+Punctuation:
+- Integrate and Review All
+
 
