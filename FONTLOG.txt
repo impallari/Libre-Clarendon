@@ -15,6 +15,9 @@ Libre Clarendon is loosely based on the original Besley's Clarendon as issued by
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+08 May 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Clarendon v0.044
+- Almost all base glyphs added in all masters. Still a few pending.
+
 30 March 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Clarendon v0.030
 - a-z Lowercases added in all 6 masters
 
