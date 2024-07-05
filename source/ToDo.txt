@@ -1,5 +1,7 @@
 ToDo:
 
+Review and integrate v044 and v045
+
 Lowercase:
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
