@@ -3,19 +3,19 @@ ToDo:
 Lowercase:
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
-- Fix the /s in the Bold Wide masters.
 - Review /t tail widths.
 - Review /t and /f crossbar, check qfpqtp. Compare Solutions.
 
 
 Uppercase:
-- Integrate and Review All
+- Review All
+- Fix the /N
 
 Punctuation:
-- Integrate and Review All
+- Review All
 
 Numbers:
-- Integrate and Review All
+- Review /2 /5 /7
 
 
 ---- Done ---
