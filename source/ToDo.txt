@@ -1,27 +1,18 @@
-ToDo:
-
 Lowercase:
 - enlarge the serifs in /s in the wide44 master, review inclination
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
 - Review /t tail widths.
 - Review /t and /f crossbar, check qfpqtp. Compare Solutions.
-
+- Compare /r to /c and fix
 
 Uppercase:
-- Review All
-
-Punctuation:
-- Review All
+- Review /J /M /W and all the widths
 
 Numbers:
 - Review /2 /5 /7
 
-
----- Done ---
-- Review and integrate v044 and v045
-- Heavy Wide Master: Review the /s
-- Fixed /N diagonal
-- Reviewed all /Ns
+Punctuation:
+- Review All
 
 
