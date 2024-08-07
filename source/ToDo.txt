@@ -1,18 +1,21 @@
 Lowercase:
-- enlarge the serifs in /s in the wide44 master, review inclination
+- enlarge the serifs in /s in the wide44 & wide130, review inclination
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
-- Review /t tail widths.
+- Review /t tail widths in mastersWide44 & masterWide130
 - Review /t and /f crossbar, check qfpqtp. Compare Solutions.
-- Compare /r to /c and fix
 
 Uppercase:
-- Review /J /M /W and all the widths
+- Review /M /W and all the widths
+- Review /S /G /S serifs in Condensed40, Wide44, Condensed130
+- Review /G in Wide 130, Wide230
+- Review the /Q in all masters, Test new alternate Q
 
 Numbers:
 - Review /2 /5 /7
 
 Punctuation:
 - Review All
+
 
 
