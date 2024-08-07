@@ -9,7 +9,7 @@ Lowercase:
 
 Uppercase:
 - Review All
-- Fix the /N
+- Fix the /N in Condensed130 master
 
 Punctuation:
 - Review All
@@ -21,5 +21,6 @@ Numbers:
 ---- Done ---
 - Review and integrate v044 and v045
 - Heavy Wide Master: Review the /s
+- Reviewed all /Ns
 
 
