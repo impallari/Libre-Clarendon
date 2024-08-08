@@ -5,7 +5,7 @@ Lowercase:
 - enlarge the serifs in /s in the wide44 & wide130, review inclination
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
-- Review /t tail widths in mastersWide44 & masterWide130
+- Review /t tail width in wide masters
 - Review /t and /f crossbar, check qfpqtp. Compare Solutions.
 
 Uppercase:
