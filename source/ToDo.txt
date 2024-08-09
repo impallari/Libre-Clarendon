@@ -2,22 +2,20 @@
 === WORK IN PROGRESS - TO DO LIST ===
 
 Lowercase:
-- enlarge the serifs in /s in the wide44 & wide130, review inclination
 - Condensed 130 master: Overshoot is 12 units, all other masters is 10 units.
 - Fix /y contrast in the thin masters.
 - Review /t tail width in wide masters
 - Review /t and /f crossbar, check qfpqtp. Compare Solutions.
 
 Uppercase:
-- Review /E /F /R /L /S in wide thin masters
-- Review /S /G /S serifs in Condensed40, Wide44, Condensed130
-- Review /G in Wide 130, Wide230
-- Review /M /W and all the widths
-- Review the /Q in all masters, Test new alternate Q
+- Review /G crossbar
+- Review widths /E /F /R /L /S
+- Review widths and diagonals in /A /V /W /M
+- Review the /Q, test new alternate Q
 - Review the /Rs on the wide masters, maybe smaller bowl and more angle in the diagonal? (look at FannStreet/Haas/Craw/PhotoLettering)
 
 Numbers:
-- Review /2 /5 /7
+- Review /2 /5 /7 and maybe create flat horizontal alternaters
 
 Punctuation:
 - Review All
