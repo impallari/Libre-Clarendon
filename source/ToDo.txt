@@ -10,7 +10,9 @@ Lowercase:
 Uppercase:
 - Review /G crossbar
 - Review widths /E /F /R /L /S
-- Review widths and diagonals in /A /V /W /M
+- Review widths 
+- Decrease diagonal contrast in thin masters /A /V, review /M /W
+- Review /Z Condensed Thin
 - Review the /Q, test new alternate Q
 - Review the /Rs on the wide masters, maybe smaller bowl and more angle in the diagonal? (look at FannStreet/Haas/Craw/PhotoLettering)
 
