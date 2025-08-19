@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"FABRICA/space DE/space JINGLES"
+);
 copyright = "Copyright (c) 2014, Impallari Type (www.impallari.com), with Reserved Font Name Libre Clarendon.";
 customParameters = (
 {
@@ -2225,7 +2228,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2024-08-09 15:03:14 +0000";
+lastChange = "2024-11-03 23:29:08 +0000";
 layers = (
 {
 background = {
@@ -2417,9 +2420,9 @@ nodes = (
 "16 558 OFFCURVE",
 "16 327 CURVE SMOOTH",
 "16 85 OFFCURVE",
-"82 -10 OFFCURVE",
-"231 -10 CURVE SMOOTH",
-"373 -10 OFFCURVE",
+"76 -10 OFFCURVE",
+"225 -10 CURVE SMOOTH",
+"367 -10 OFFCURVE",
 "428 77 OFFCURVE",
 "428 292 CURVE",
 "277 292 LINE",
@@ -3308,7 +3311,7 @@ unicode = 01F2;
 },
 {
 glyphname = E;
-lastChange = "2024-08-07 16:27:20 +0000";
+lastChange = "2024-11-03 23:28:25 +0000";
 layers = (
 {
 background = {
@@ -3571,8 +3574,8 @@ nodes = (
 "248 284 OFFCURVE",
 "251 267 OFFCURVE",
 "251 201 CURVE",
-"311 201 LINE",
-"311 438 LINE",
+"309 201 LINE",
+"309 438 LINE",
 "251 438 LINE",
 "251 377 OFFCURVE",
 "248 356 OFFCURVE",
@@ -4383,7 +4386,7 @@ unicode = 018F;
 },
 {
 glyphname = F;
-lastChange = "2024-08-05 23:12:13 +0000";
+lastChange = "2024-11-03 23:28:15 +0000";
 layers = (
 {
 layerId = "E9E6D55E-9446-45F2-B66C-3272698B0216";
@@ -4594,18 +4597,18 @@ nodes = (
 "245 283 OFFCURVE",
 "248 272 OFFCURVE",
 "248 201 CURVE",
-"295 201 LINE",
-"295 438 LINE",
+"308 201 LINE",
+"308 438 LINE",
 "248 438 LINE",
 "248 361 OFFCURVE",
 "243 355 OFFCURVE",
 "236 355 CURVE SMOOTH",
 "231 355 LINE",
 "231 522 LINE",
-"279 522 LINE SMOOTH",
-"298 522 OFFCURVE",
-"313 509 OFFCURVE",
-"313 341 CURVE",
+"297 522 LINE SMOOTH",
+"316 522 OFFCURVE",
+"331 509 OFFCURVE",
+"331 341 CURVE",
 "459 341 LINE",
 "459 630 LINE",
 "7 630 LINE",
@@ -4915,7 +4918,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2024-08-09 15:03:10 +0000";
+lastChange = "2024-11-03 23:29:51 +0000";
 layers = (
 {
 background = {
@@ -5224,6 +5227,12 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+angle = 90;
+position = "{195, 274}";
+}
+);
 layerId = "B817C739-5D48-43E8-AAEE-CE891513D7BC";
 name = "Bold Condensed";
 paths = (
@@ -5251,10 +5260,10 @@ nodes = (
 "16 545 OFFCURVE",
 "16 320 CURVE SMOOTH",
 "16 98 OFFCURVE",
-"68 -10 OFFCURVE",
-"175 -10 CURVE SMOOTH",
-"279 -10 OFFCURVE",
-"338 95 OFFCURVE",
+"59 -10 OFFCURVE",
+"166 -10 CURVE SMOOTH",
+"265 -10 OFFCURVE",
+"369 95 OFFCURVE",
 "338 282 CURVE",
 "279 172 LINE",
 "279 142 OFFCURVE",
@@ -5268,11 +5277,11 @@ nodes = (
 "235 216 LINE",
 "253 216 LINE SMOOTH",
 "271 216 OFFCURVE",
-"279 206 OFFCURVE",
+"278 206 OFFCURVE",
 "279 184 CURVE SMOOTH",
-"279 42 LINE",
-"283 42 LINE",
-"303 0 LINE",
+"284 42 LINE",
+"288 42 LINE",
+"308 0 LINE",
 "435 0 LINE",
 "435 184 LINE SMOOTH",
 "435 215 OFFCURVE",
@@ -6441,7 +6450,7 @@ unicode = 0132;
 },
 {
 glyphname = J;
-lastChange = "2024-08-07 13:50:42 +0000";
+lastChange = "2024-11-03 23:29:17 +0000";
 layers = (
 {
 layerId = "E9E6D55E-9446-45F2-B66C-3272698B0216";
@@ -6552,9 +6561,9 @@ nodes = (
 "10 214 OFFCURVE",
 "10 146 CURVE SMOOTH",
 "10 49 OFFCURVE",
-"74 -10 OFFCURVE",
-"199 -10 CURVE SMOOTH",
-"328 -10 OFFCURVE",
+"83 -10 OFFCURVE",
+"208 -10 CURVE SMOOTH",
+"337 -10 OFFCURVE",
 "405 53 OFFCURVE",
 "405 165 CURVE SMOOTH",
 "405 494 LINE SMOOTH",
@@ -7692,7 +7701,7 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2024-08-07 16:28:13 +0000";
+lastChange = "2024-11-03 23:30:35 +0000";
 layers = (
 {
 layerId = "E9E6D55E-9446-45F2-B66C-3272698B0216";
@@ -7812,10 +7821,10 @@ nodes = (
 "7 0 LINE",
 "429 0 LINE",
 "429 302 LINE",
-"278 302 LINE",
-"278 119 OFFCURVE",
-"271 108 OFFCURVE",
-"249 108 CURVE SMOOTH",
+"284 302 LINE",
+"284 119 OFFCURVE",
+"277 108 OFFCURVE",
+"255 108 CURVE SMOOTH",
 "231 108 LINE",
 "231 490 LINE SMOOTH",
 "231 510 OFFCURVE",
@@ -15420,7 +15429,7 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2024-08-09 15:01:19 +0000";
+lastChange = "2024-11-03 23:30:48 +0000";
 layers = (
 {
 background = {
